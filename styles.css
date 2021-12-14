@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+s
+img {
+    width: 200px;
+    height: 100px;
+}
+
+.infoImage img {
+    height: 100px;
+    width: 100px;
+}
